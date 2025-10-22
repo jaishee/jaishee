@@ -23,7 +23,7 @@ Currently working on MERN Stack projects and exploring modern web technologies.
 
 ### 🔗 Project Links
 - Full Stack To-Do List:- https://github.com/jaishee/Full-Stack-To-Do-List
-- Frontend:- https://jaishee.github.io/Innovate-React/
+- Frontend:- (https://innovate-react-86rr.vercel.app/)
 
 ---
 
