@@ -14,19 +14,14 @@ Currently working on MERN Stack projects and exploring modern web technologies.
 ---
 
 ### 📌 Latest Projects
-**Helmet Detection System**  
-A real-time motorbike helmet detection system using a hybrid deep learning model.  
-Tech: Python, OpenCV, Deep Learning  
+ 
 
-**Boibikroy.com**  
-An e-commerce platform with shopping and cart features.  
-Tech: PHP, MySQL, JavaScript, Bootstrap  
+ 
 
 ---
 
 ### 🔗 Project Links
-- [Boibikroy.com](https://boibikroy.com)  
-- [Helmet Detection System GitHub](#)  
+- 
 
 ---
 
@@ -36,9 +31,8 @@ Tech: PHP, MySQL, JavaScript, Bootstrap
 
 ---
 
-### 📫 Connect With Me
-🌐 [Portfolio](#)  
-💼 [LinkedIn](#)  
-📧 jahidaalamjaishee@gmail.com  
+### 📫 Connect With Me 
+💼 [www.linkedin.com/in/jaishee](#)  
+📧 jahidaalam6@gmail.com  
 
 “Code with purpose, create with passion.”
