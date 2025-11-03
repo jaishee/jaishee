@@ -16,8 +16,8 @@ Currently working on MERN Stack projects and exploring modern web technologies.
 ### 📌 Latest Projects
 
 **Full Stack E-commerce**(ongoing)
-
-   HTML, React, Node.js, MongoDB, ExpressJS
+    
+    HTML, React, Express.js, Node.js, MongoDB
    
  
 **Full Stack To-Do List**
