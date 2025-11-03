@@ -14,10 +14,14 @@ Currently working on MERN Stack projects and exploring modern web technologies.
 ---
 
 ### 📌 Latest Projects
+
+**Full Stack E-commerce**(ongoing)
+
+   HTML, React, Node.js, MongoDB, ExpressJS
  
 **Full Stack To-Do List**
     
-    HTML, Tailwind CSS, React, Node.js, MongoDb
+    HTML, Tailwind CSS, React, Node.js, MongoDB
  
 
 ---
