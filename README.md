@@ -30,7 +30,7 @@ Currently working on MERN Stack projects and exploring modern web technologies.
 ### 🔗 Project Links
 - Full Stack E-commerce:- https://github.com/jaishee/Full-Stack-E-commerce
 - Full Stack To-Do List:- https://github.com/jaishee/Full-Stack-To-Do-List
-- Frontend:- https://innovate-react-86rr.vercel.app/
+- Frontend:- https://innovate-react-mon1.vercel.app/
 
 ---
 
